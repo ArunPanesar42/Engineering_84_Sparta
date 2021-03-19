@@ -1,6 +1,7 @@
 # Engineering_84_buisness_week
 # Interview preparation notes incluing Questions and Answers 
 ## Questions 
+## Buisness Week 
 - Q: What is DevOps?
 - A: The term DevOps was formed by combining the words “development” and “operations”. It is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably.  
 
@@ -28,3 +29,20 @@ better visibility into projects, More alignment between business and IT
 
 - Q: Where do you see yourself in 2-5 years time?
 - A: My long-term aspiration is to work for a leading technology or an innovative video game company due to my interest in computing and gaming. 
+
+## SQL Week
+
+- Q: What is a Join in SQL ?
+- A:
+
+- Q: What is a Primary Key and Foreign Key? What are their Functions?
+- A: 
+ 
+- Q: What is DML and DDL?
+- A:
+- 
+- Q: What is Normalisation ?
+- A:
+ 
+- Q: What is the importance of an Entity Relationship Diagram?
+- A:
