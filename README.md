@@ -33,16 +33,22 @@ better visibility into projects, More alignment between business and IT
 ## SQL Week
 
 - Q: What is a Join in SQL ?
-- A:
+- A: A JOIN clause is used to combine rows from two or more tables, based on a related column between them. The different joins are "INNER JOIN" which returns records that have matching values in both tables. LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table. RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table. FULL (OUTER) JOIN: Returns all records when there is a match in either left or right table. 
 
 - Q: What is a Primary Key and Foreign Key? What are their Functions?
-- A: 
+- A: The Primary Key uniquely identifies each record in the table, some of the constraints include, primary key being unique, must always have an entry and the value must never change. Natural relationships exist between tables in most database structures, foreign keys are used to create solid relationships.Foreign keys ensures that the row of information in Table A corresponds to the correct information in Table B. 
  
 - Q: What is DML and DDL?
-- A:
-- 
+- A:DML is Data Manipulation Language and inludes the functions SELECT,INSERT,UPDATE and DELETE. DDL is Data Definition Language and includes the function CREATE, ALTER, DROP, TRUNCATE.
+
 - Q: What is Normalisation ?
-- A:
+- A:Normalization is a database design technique that reduces data redundancy and eliminates undesirable characteristics like Insertion, Update and Deletion Anomalies. Some of the normal forms include 1st Normal Form (Each table cell should contain a single value and Each record needs to be unique.), 
+- 2nd Normal Form 
+Rule 1- Be in 1NF 
+Rule 2- Single Column Primary Key 
+-3rd Normal Form  
+Rule 1- Be in 2NF 
+Rule 2- Has no transitive functional dependencies 
  
 - Q: What is the importance of an Entity Relationship Diagram?
-- A:
+- A:Entity Relationship diagram visually shows the various entities (tables) and relationship between entities ie, how two tables are inter-related and their cardinality. eg, one to one , one to many or many to many.
