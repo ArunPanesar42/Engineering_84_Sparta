@@ -1,4 +1,4 @@
-# Engineering_84_buisness_week
+
 # Interview preparation notes incluing Questions and Answers 
 ## Questions 
 ## Buisness Week 
@@ -29,7 +29,7 @@ better visibility into projects, More alignment between business and IT
 
 - Q: Where do you see yourself in 2-5 years time?
 - A: My long-term aspiration is to work for a leading technology or an innovative video game company due to my interest in computing and gaming. 
-
+# WEEK 2
 ## SQL Week
 
 - Q: What is a Join in SQL ?
@@ -52,7 +52,7 @@ Rule 2- Has no transitive functional dependencies
  
 - Q: What is the importance of an Entity Relationship Diagram?
 - A:Entity Relationship diagram visually shows the various entities (tables) and relationship between entities ie, how two tables are inter-related and their cardinality. eg, one to one , one to many or many to many.
-
+# WEEK 3
 ## GIT and GIT-HUB Questions and Answers 
 - Q: What is GIT?
 - A: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.
