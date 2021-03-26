@@ -68,3 +68,24 @@ Bash is a popular default shell on Linux and macOS. Git Bash is a package that i
 
 # WEEK 4  
 ## Python Questions and Answers 
+
+- Q: What is OOP and Why should we use it?
+- A: Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. We should use it because of DRY(DO NOT REPEAT YOURSELF), it keeps programmers from re-using their code and making  objects more modular. 
+
+- Q: OOP benefits and best use cases?
+- A: 
+
+- Q: What are four pillars of OOP and why should we use them?
+- A:
+
+- Q: Benefits and use cases of OOP four pillars?
+- A:
+
+- Q: What is an API and Why should we use it
+- A:
+
+- Q: Python packages and modules - requests module use case with API?
+- A:
+
+- Q: What is pip?
+- A:
