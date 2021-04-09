@@ -100,14 +100,14 @@ with the above-mentioned facts of using the application definitely enhances its 
 
 # WEEK 5
 ## Python Project and Presentation
-Q: What is DevOps?
-A:
-Q: Why do you want become a DevOps Engineer/Consultant?
-A:
-Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
-A:
-Q: What is cloud computing and why should we use it?
-A:
-Q: What are devops practices and importance of them (CI/CD/CDE)?
-A:
+- Q: What is DevOps?
+- A:
+- Q: Why do you want become a DevOps Engineer/Consultant?
+- A:
+- Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
+- A:
+- Q: What is cloud computing and why should we use it?
+- A:
+- Q: What are devops practices and importance of them (CI/CD/CDE)?
+- A:
 
