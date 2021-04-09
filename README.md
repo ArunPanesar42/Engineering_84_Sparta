@@ -97,3 +97,17 @@ with the above-mentioned facts of using the application definitely enhances its 
 - 
 - Q: What is pip?
 - A: pip is the standard package manager for Python. It allows you to install and manage additional packages that are not part of the Python standard library. 
+
+# WEEK 5
+## Python Project and Presentation
+Q: What is DevOps?
+A:
+Q: Why do you want become a DevOps Engineer/Consultant?
+A:
+Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
+A:
+Q: What is cloud computing and why should we use it?
+A:
+Q: What are devops practices and importance of them (CI/CD/CDE)?
+A:
+
