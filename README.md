@@ -109,5 +109,10 @@ with the above-mentioned facts of using the application definitely enhances its 
 - Q: What is cloud computing and why should we use it?
 - A: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services(AWS), one of the benefits of cloud computing is that you can deploy globally in minutes.
 - Q: What are devops practices and importance of them (CI/CD/CDE)?
-- A:
+- A:• CI  is the practice that instructs developers to commit changes several times
+per day into common repository/mainline.
+- • CDE is the practice that tends to ensure every available build is stable,
+checked and verified to be pushed live on a single button click.
+- • CD is the practice that further expands CDE by ensuring the build is not just
+ready and checked, but automatically get pushed live onto production environment so real consumers could see changes delivered immediately.
 
