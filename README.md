@@ -101,13 +101,13 @@ with the above-mentioned facts of using the application definitely enhances its 
 # WEEK 5
 ## Python Project and Presentation
 - Q: What is DevOps?
-- A:
+- A: DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 - Q: Why do you want become a DevOps Engineer/Consultant?
-- A:
+- A: A DevOps consultant is a certified DevOps professional who is usually hired to resolve a specific issue or to educate employees to use DevOps tools, getting this job wil allow me to better my knowledge of the software world and always have room to improve myself. 
 - Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
-- A:
+- A: DRY AND OOP stands for Dont Not Repeat yourself and Object Orientated Programming, when i was in university i had to create an AI system for an enemy, in order for me to do this i had to create multiple functions in differents scripts to inherit from one another. The result of this is a enemy AI that worked and worked really well. 
 - Q: What is cloud computing and why should we use it?
-- A:
+- A: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services(AWS), one of the benefits of cloud computing is that you can deploy globally in minutes.
 - Q: What are devops practices and importance of them (CI/CD/CDE)?
 - A:
 
