@@ -3,7 +3,7 @@
 ## Questions 
 ## Buisness Week 
 - Q: What is DevOps?
-- A: The term DevOps was formed by combining the words “development” and “operations”. It is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably.  
+- A: The term DevOps was formed by combining the words “development” and “operations”. It is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably. It also aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 
 
 - Q: What is the benifit of using DevOps?
@@ -100,8 +100,6 @@ with the above-mentioned facts of using the application definitely enhances its 
 
 # WEEK 5
 ## Python Project and Presentation
-- Q: What is DevOps?
-- A: DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 - Q: Why do you want become a DevOps Engineer/Consultant?
 - A: A DevOps consultant is a certified DevOps professional who is usually hired to resolve a specific issue or to educate employees to use DevOps tools, getting this job wil allow me to better my knowledge of the software world and always have room to improve myself. 
 - Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
@@ -109,10 +107,8 @@ with the above-mentioned facts of using the application definitely enhances its 
 - Q: What is cloud computing and why should we use it?
 - A: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services(AWS), one of the benefits of cloud computing is that you can deploy globally in minutes.
 - Q: What are devops practices and importance of them (CI/CD/CDE)?
-- A:• CI  is the practice that instructs developers to commit changes several times
-per day into common repository/mainline.
-- • CDE is the practice that tends to ensure every available build is stable,
-checked and verified to be pushed live on a single button click.
-- • CD is the practice that further expands CDE by ensuring the build is not just
+- A:• CI stands for Continuous Integrantion and is the practice that instructs developers to commit changes several times per day into common repository/mainline.
+- • CDE stands for Continuous Delivery and is the practice that tends to ensure every available build is stable, checked and verified to be pushed live on a single button click.
+- • CD stands for Continuous Deployment is the practice that further expands CDE by ensuring the build is not just
 ready and checked, but automatically get pushed live onto production environment so real consumers could see changes delivered immediately.
 
