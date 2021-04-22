@@ -1,34 +1,40 @@
 
 # Interview preparation notes incluing Questions and Answers 
-## Questions 
+# Week 1
 ## Buisness Week 
+
 - Q: What is DevOps?
 - A: The term DevOps was formed by combining the words “development” and “operations”. It is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably. It also aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology.
 
 
 - Q: What is the benifit of using DevOps?
-- A: There are many benifits to using DevOps. The Techinical Benefits include continuous software delivery and faster resolution to problems. 
+- A: There are many benifits to using DevOps. The four main benefits are Ease of Use, Flexibility, Robustness, Cost
 
+- Q: Why do you want become a DevOps Engineer/Consultant?
+- A: A DevOps consultant is a certified DevOps professional who is usually hired to resolve a specific issue or to educate employees to use DevOps tools, getting this job wil allow me to better my knowledge of the software world and always have room to improve myself. 
 
 - Q: What is Agile and benefit of implementing it?
 - A: Agile is a method of developing software solutions, including websites, web applications, and mobile applications, that focuses on delivering high-quality working software frequently and consistently, while minimizing project overhead and increasing business value. 
 
-
 - Q: Why Sparta?
 - A: I have been looking at Sparta Global from when it when it was in its start up and had only 100+ employees, now spartsa has over 500+ so i want to be apart of such a rapid developing company.
-
 
 - Q: What is SCRUM?
 - A: Scrum is an agile framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies.
 
-
+- Q: What are the three main roles of people that use SCRUM? 
+- A: The three main roles include product owner, scrum master and the development team members.
+- 
 - Q: What is the benefit of implementing SCRUM?
 - A: The benefits of scrum include, Increased ability to manage changing priorities, 
 better visibility into projects, More alignment between business and IT
 
-
 - Q: Where do you see yourself in 2-5 years time?
 - A: My long-term aspiration is to work for a leading technology or an innovative video game company due to my interest in computing and gaming. 
+
+- Q: What is the meaning of Definition of Done?
+- A: The definition of done (DoD) is when all conditions, or acceptance criteria, that a software product must satisfy are met and ready to be accepted by a user, customer, team, or consuming system.  We must meet the definition of done to ensure quality.  It lowers rework, by preventing user stories that don’t meet the definition from being promoted to higher level environments. It will prevent features that don’t meet the definition from being delivered to the customer or user.
+
 # WEEK 2
 ## SQL Week
 
@@ -52,11 +58,11 @@ Rule 2- Has no transitive functional dependencies
  
 - Q: What is the importance of an Entity Relationship Diagram?
 - A:Entity Relationship diagram visually shows the various entities (tables) and relationship between entities ie, how two tables are inter-related and their cardinality. eg, one to one , one to many or many to many.
+
 # WEEK 3
 ## GIT and GIT-HUB Questions and Answers 
 - Q: What is GIT?
 - A: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.
-
 
 - Q: Where does GIT-HUB store files?
 - A: Git-hub stores files on the cloud for its users 
@@ -65,6 +71,9 @@ Rule 2- Has no transitive functional dependencies
 - A: Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. 
 Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. 
 Bash is a popular default shell on Linux and macOS. Git Bash is a package that installs Bash, some common bash utilities, and Git on a Windows operating system.
+
+- Q: What is git merge?
+- A: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
 
 # WEEK 4  
 ## Python Questions and Answers 
@@ -100,10 +109,10 @@ with the above-mentioned facts of using the application definitely enhances its 
 
 # WEEK 5
 ## Python Project and Presentation
-- Q: Why do you want become a DevOps Engineer/Consultant?
-- A: A DevOps consultant is a certified DevOps professional who is usually hired to resolve a specific issue or to educate employees to use DevOps tools, getting this job wil allow me to better my knowledge of the software world and always have room to improve myself. 
+
 - Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
 - A: DRY AND OOP stands for Dont Not Repeat yourself and Object Orientated Programming, when i was in university i had to create an AI system for an enemy, in order for me to do this i had to create multiple functions in differents scripts to inherit from one another. The result of this is a enemy AI that worked and worked really well. 
+
 - Q: What is cloud computing and why should we use it?
 - A: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services(AWS), one of the benefits of cloud computing is that you can deploy globally in minutes.
 - Q: What are devops practices and importance of them (CI/CD/CDE)?
