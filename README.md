@@ -24,7 +24,7 @@
 
 - Q: What are the three main roles of people that use SCRUM? 
 - A: The three main roles include product owner, scrum master and the development team members.
-- 
+
 - Q: What is the benefit of implementing SCRUM?
 - A: The benefits of scrum include, Increased ability to manage changing priorities, 
 better visibility into projects, More alignment between business and IT
@@ -112,7 +112,10 @@ with the above-mentioned facts of using the application definitely enhances its 
 
 - Q: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this?
 - A: DRY AND OOP stands for Dont Not Repeat yourself and Object Orientated Programming, when i was in university i had to create an AI system for an enemy, in order for me to do this i had to create multiple functions in differents scripts to inherit from one another. The result of this is a enemy AI that worked and worked really well. 
-
+- Q: What is Flask? 
+- A: Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.[2] It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools. Applications that use the Flask framework include Pinterest and LinkedIn.
+- Q: What are the features of flask?
+- A: Development server and debugger, Integrated support for unit testing and RESTful request dispatching.
 - Q: What is cloud computing and why should we use it?
 - A: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services(AWS), one of the benefits of cloud computing is that you can deploy globally in minutes.
 - Q: What are devops practices and importance of them (CI/CD/CDE)?
